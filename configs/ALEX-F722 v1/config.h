@@ -23,8 +23,8 @@
 
 #define FC_TARGET_MCU     STM32F7X2
 
-#define BOARD_NAME        HAKRCF722V2
-#define MANUFACTURER_ID   HARC
+#define BOARD_NAME        ALEX-F722V1
+#define MANUFACTURER_ID   ALEX RC
 
 #define USE_GYRO
 #define USE_GYRO_SPI_MPU6000
